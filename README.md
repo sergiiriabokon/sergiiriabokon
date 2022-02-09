@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sergiiriabokon
-- 👀 I’m interested in Angular, AWS Lambda and functional programming 
-- 🌱 I’m currently learning Cloure
-- blog: https://medium.com/@sergiiriabokon
+- 🌱 I’m currently programming in Cloure
+- 👀 I’m interested in functional programming, serverless architecture, web-components, all sorts of web engineering
+- blog: https://sergiiriabokon.medium.com/
 
 <!---
 sergiiriabokon/sergiiriabokon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
