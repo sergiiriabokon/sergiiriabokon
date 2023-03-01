@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergiiriabokon
-- 🌱 I’m currently programming in Cloure
+- 🌱 I’m currently programming in Cloure and Rust
 - 👀 I’m interested in functional programming, serverless architecture, web-components, all sorts of web engineering
 - blog: https://sergiiriabokon.medium.com/
 
